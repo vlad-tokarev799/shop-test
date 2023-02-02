@@ -1,0 +1,15 @@
+.header {
+  max-width: 1340px;
+  margin: 0 auto 30px;
+
+  background: #ffffff;
+  box-shadow: 0px 15px 20px rgba(0, 0, 0, 0.03);
+  border-radius: 0px 0px 10px 10px;
+
+  box-sizing: border-box;
+  padding: 30px 60px;
+
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}

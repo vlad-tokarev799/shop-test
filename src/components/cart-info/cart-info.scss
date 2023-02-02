@@ -1,0 +1,25 @@
+.cart-info {
+  background: #4F4F4F;
+  border-radius: 30px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 19px;
+
+  color: #FFFFFF;
+
+  display: flex;
+  padding: 8px 23px;
+
+  &__price {
+    border-right: 1px solid rgba(255, 255, 255, 0.25);
+    padding-right: 13px;
+  }
+
+  &__count {
+    padding-left: 13px;
+    display: flex;
+    gap: 8px;
+    align-items: center;
+  }
+}
